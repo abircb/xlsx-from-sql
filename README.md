@@ -10,7 +10,7 @@ Estabilish a connection
   <li><code>portS</code>: The port number to connect to</li>
 </ul>
 
-<code>table</code>: The output table's name
+<code>table</code>: The output file's name
 
 <code>query_count</code>: A count query to count the number of rows produced by the query (for the progress bar)
 
