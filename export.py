@@ -1,3 +1,5 @@
+#!/usr/bin/env python 3
+
 from openpyxl import Workbook
 from optparse import OptionParser
 import mysql.connector
@@ -44,7 +46,6 @@ if not options.database:
 
 table = # Enter your output table's name
 options.output = table + ".xlsx"
-
 
 cnx = mysql.connector.connect(
     user=options.user,
