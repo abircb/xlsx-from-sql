@@ -17,14 +17,14 @@ Estabilish a connection
 <code>query</code>: The SQL query
 
 ## Usage
+To install dependencies
+
+```cli
+pip install requirements.txt
+```
+
+To run
 
 ```cli
 python export.py
 ```
-
-
-
-
-
-
-
