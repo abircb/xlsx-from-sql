@@ -55,7 +55,7 @@ cnx = mysql.connector.connect(
 )
 cursor = cnx.cursor()
 
-book = Workbook(write_only=True):
+book = Workbook(write_only=True)
 title = table[-31:]
 sheet = book.create_sheet()
 sheet.title = title
