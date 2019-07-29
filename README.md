@@ -1,5 +1,8 @@
 # XLXS from SQL
 
+For older versions of Microsoft Excel
+
+For newer versions, read [this](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-connect-excel)
 ## Setup
 Estabilish a connection
 <ul>
