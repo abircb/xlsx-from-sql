@@ -1,4 +1,4 @@
-# XLXS from SQL
+# XLSX from SQL
 
 For older versions of Microsoft Excel
 
